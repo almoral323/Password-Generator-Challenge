@@ -63,7 +63,7 @@ When the user clicks a button to generate a password, they are presented with pr
 
 - Alternatively, you can clone this repository to your local machine using Git:
 
-- git clone https://github.com/martincespedes/Generate_Random_Password.git
+- git clone {repo url}
 
 - Open the index.html file in your web browser to run the application.
 ```
