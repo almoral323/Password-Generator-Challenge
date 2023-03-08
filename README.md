@@ -1,6 +1,6 @@
 ## Password Generator
 
-- [Live Link To App]()
+- [Deployed App](https://almoral323.github.io/Password-Generator-Challenge/)
 
 ## Contents
 
