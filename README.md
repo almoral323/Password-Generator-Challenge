@@ -99,6 +99,7 @@ When the user clicks a button to generate a password, they are presented with pr
 ```
 
 ## Application Screenshot Preview
+![image](https://user-images.githubusercontent.com/113931387/223638112-c91bda4d-fd99-4973-b698-db375879d227.png)
 
 
 
